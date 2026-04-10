@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 \"C:/Users/esteb/.claude/skills/ui-ux-pro-max/scripts/search.py\" \"landing page nextjs\" --stack nextjs)",
+      "Bash(npm install:*)"
+    ]
+  }
+}
